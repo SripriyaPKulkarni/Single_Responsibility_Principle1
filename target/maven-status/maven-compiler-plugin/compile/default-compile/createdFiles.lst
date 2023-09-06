@@ -1,0 +1,5 @@
+com\lambdatest\common\AbstractComponent.class
+com\lambdatest\pagecomponents\ProductPage.class
+com\lambdatest\pagecomponents\NavigationBar.class
+com\lambdatest\common\Component.class
+com\lambdatest\mainpageobjects\LambdaTestHomePage.class
